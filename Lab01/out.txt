@@ -1,0 +1,4 @@
+File Name :  demo.txt
+Number of lines in the text file :  6
+Number of words in the text file :  100
+Amount of bytes : 1079

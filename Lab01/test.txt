@@ -1,0 +1,5 @@
+pwd
+ls
+cat readme.txt 
+cat readme.txt | grep my_shell | grep m
+exit
